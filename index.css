@@ -6,9 +6,10 @@
 }
 
 @font-face {
-  font-family: 'Montserrat Semibold'
-  src: url('https://fonts.googleapis.com/css?family=Montserrat')
+  font-family: 'Montserrat Semibold';
+  src: url('https://fonts.googleapis.com/css?family=Montserrat');
 }
+
 #top{ 
   display: block;
   height: 400px;
