@@ -54,12 +54,12 @@ footer{
  }
 
 .grid-item {
+  background-color: #000000;
   width: 60%;
   border: solid;
 } 
 
 .main {
-  background-color: #000000;
   color: #404040;
   text-align: center;
   text-decoration: underline;
