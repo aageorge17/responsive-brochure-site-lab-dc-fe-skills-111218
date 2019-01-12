@@ -27,7 +27,8 @@ footer {
 
 .center {
   text-align: center;
-  position: r
+  position: absolute;
+  
 }
 
 footer{ 
