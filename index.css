@@ -26,7 +26,8 @@ footer{
   width: 100vw;
   display: grid;
   grid-template: 1fr 1fr / 1fr 1fr 1fr;
-  
-   
  }
-   
+
+.grid-item {
+  justify-content: center
+}   
