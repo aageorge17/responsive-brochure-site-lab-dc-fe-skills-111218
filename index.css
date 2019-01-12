@@ -26,7 +26,6 @@ footer {
   clear: both;
 }
  #grid { 
-   column-count: 3;
-   column-gap: 25%
+   grid-area: 
  }
    
