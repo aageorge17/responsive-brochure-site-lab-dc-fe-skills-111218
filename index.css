@@ -10,6 +10,7 @@
   display: block;
   height: 350px;
   background-image: url('https://wallpapersfind.com/wp-content/uploads/2017/10/mountain-road-beautiful-landscape-wallpaper.jpg');
+  background-position: center;
   background-size: cover;
   margin-top: -20px
 }
