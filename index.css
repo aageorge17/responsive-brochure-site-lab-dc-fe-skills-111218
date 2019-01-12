@@ -59,6 +59,7 @@ footer{
 } 
 
 .main {
+  background-color: #000000;
   color: #404040;
   text-align: center;
   text-decoration: underline;
