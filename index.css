@@ -35,7 +35,7 @@ footer{
   width: 100vw;
   display: grid;
   grid-template: 1fr/  1fr 1fr 1fr;
-  justify-item: center;
+  justify-self:center;
  }
 
 .grid-item {
