@@ -66,6 +66,10 @@ footer{
   text-decoration: underline;
 }
 
+.text {
+  color: #696969;
+  opacity: 1;
+}
 #red {
   color:red;
   text-align: center;
