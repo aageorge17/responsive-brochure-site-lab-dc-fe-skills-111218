@@ -12,12 +12,12 @@ body {
 img { 
   align-content: center;
 }
+
 #top{ 
   display: block;
   height: 600px;
   background-position: center;
   background-size: cover;
-  margin-top: -22px;
   color: #404040;
 }
 footer {
