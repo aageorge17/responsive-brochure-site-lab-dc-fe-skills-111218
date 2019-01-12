@@ -25,4 +25,6 @@ footer {
 footer {
   clear: both;
 }
-}
+ #grid { 
+   column-count: 3;
+   
