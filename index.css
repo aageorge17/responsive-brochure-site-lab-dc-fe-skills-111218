@@ -54,14 +54,10 @@ footer{
  }
 
 .grid-item {
-  background-color: #000000;
-  opacity: .3;
   width: 60%;
   border: solid;
 } 
-.text {
-  opacity: 1;
-}
+
 .main {
   color: #404040;
   text-align: center;
