@@ -11,6 +11,7 @@ body {
 
 img { 
   align-content: center;
+  size: fit;
   
 #top{ 
   display: block;
