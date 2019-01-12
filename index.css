@@ -37,7 +37,7 @@ footer{
   grid-template: 1fr/  1fr 1fr 1fr;
  }
 
-#grid-item {
+.grid-item {
   width: 60%;
   border: solid;
 }   
