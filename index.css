@@ -35,7 +35,7 @@ footer{
  }
 
 .grid-item {
-  width: 100%
+  width: 100%;
   background-color: #D3D3D3;
   justify-self: center;
 }   
