@@ -29,5 +29,5 @@ footer{
  }
 
 .grid-item {
-  justify-content: center
+  justify-self: center
 }   
