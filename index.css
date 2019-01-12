@@ -54,7 +54,8 @@ footer{
  }
 
 .grid-item {
-  background-color: rgb(0,0,0,);
+  background-color: #000000;
+  opacity: .8;
   width: 60%;
   border: solid;
 } 
