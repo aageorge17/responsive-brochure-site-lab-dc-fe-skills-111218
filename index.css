@@ -22,3 +22,7 @@ footer {
   float: left;
   clear-f
 }
+footer {
+  clear: both;
+}
+}
