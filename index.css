@@ -23,7 +23,7 @@ footer{
 }
  .grid { 
    display: grid;
-   grid-template: 1fr 1fr 1fr / 1fr 1fr;
+   grd-template: 1fr 1fr 1fr / 1fr 1fr;
    
  }
    
