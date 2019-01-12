@@ -6,7 +6,8 @@
 
 #top{ 
   background-image: url('https://wallpapersfind.com/wp-content/uploads/2017/10/mountain-road-beautiful-landscape-wallpaper.jpg');
-  background-size: cover;
+  background-size: contain;
+  height: 33%;
 }
 footer {
   background-color: #000000;
