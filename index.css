@@ -21,6 +21,7 @@ footer {
 
 .center {
   text-align: center;
+  padding:20px;
 }
 footer{ 
   clear: both;
