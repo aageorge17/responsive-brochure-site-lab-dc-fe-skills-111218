@@ -64,6 +64,7 @@ footer{
   color: #404040;
   text-align: center;
   text-decoration: underline;
+  opacity: 1;
 }
 .grid-container .grid-item {
   background: rgb(0, 0, 0); /* Fallback color */
