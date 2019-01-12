@@ -22,7 +22,6 @@ footer{
   clear: both;
 }
  .grid-container { 
-  height: 100vh;
   width: 100vw;
   display: grid;
   grid-template: 1fr 1fr / 1fr 1fr 1fr;
