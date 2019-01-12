@@ -21,7 +21,7 @@ footer {
 footer{ 
   clear: both;
 }
- .grid { 
+ .grid-container { 
    display: grid;
    grid-template: 1fr 1fr 1fr / 1fr 1fr;
    
