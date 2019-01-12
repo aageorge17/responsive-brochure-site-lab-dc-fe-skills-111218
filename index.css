@@ -5,7 +5,10 @@
   padding:15px;
 }
 
-@font
+@font-face {
+  font-family: 'Montserrat Semibold'
+  src: ()
+}
 #top{ 
   display: block;
   height: 400px;
