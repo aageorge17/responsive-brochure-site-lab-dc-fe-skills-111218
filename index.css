@@ -17,3 +17,8 @@ footer {
 .center {
   text-align: center;
 }
+
+#decision, #consider, #first {
+  float: left;
+  
+}
