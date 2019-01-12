@@ -41,9 +41,7 @@ footer{
 .grid-item {
   width: 60%;
   height: 120%
-  margin-right: 20px;
-  margin-left: 20px;
-  border-style: solid;
+  margin; auto;
 }   
 .main {
   color: #404040;
