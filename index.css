@@ -18,9 +18,8 @@ footer {
   text-align: center;
 }
 
-#decision, #consider, #first {
+#consider, #first {
   float: left;
-  clear-f
 }
 footer {
   clear: both;
