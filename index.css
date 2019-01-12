@@ -42,6 +42,8 @@ footer{
 }   
 .main {
   color: #404040;
+  text-align: center;
+  text-decoration: underline;
 }
 
 #red {
