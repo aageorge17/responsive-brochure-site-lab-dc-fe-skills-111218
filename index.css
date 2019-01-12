@@ -32,6 +32,14 @@ footer {
   left:100px;
   right:100px;
 }
+#DC{
+  text-align: center;
+  position:absolute;
+  top:100px;
+  left:100px;
+  right:100px;
+}
+
 
 footer{ 
   clear: both;
