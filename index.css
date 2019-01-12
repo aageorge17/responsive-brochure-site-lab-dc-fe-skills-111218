@@ -14,7 +14,7 @@ img {
 }
 
 #top{ 
-  
+  position: relative;
 }
 footer {
   background-color: #000000;
