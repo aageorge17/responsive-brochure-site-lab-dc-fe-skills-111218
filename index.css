@@ -11,8 +11,8 @@ body {
 
 img { 
   align-content: center;
-  size: fit;
-  
+  height; auto;
+  width: auto;
 #top{ 
   display: block;
   height: 600px;
