@@ -40,7 +40,7 @@ footer{
 .grid-item {
   width: 60%;
   border: solid;
-  align-content: center;
+  align-items: center;
 }   
 .main {
   color: #404040;
