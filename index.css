@@ -7,7 +7,7 @@
 
 @font-face {
   font-family: 'Montserrat Semibold'
-  src: ('https://fonts.googleapis.com/css?family=Montserrat')
+  src: url('https://fonts.googleapis.com/css?family=Montserrat')
 }
 #top{ 
   display: block;
