@@ -14,11 +14,7 @@ img {
 }
 
 #top{ 
-  display: block;
-  height: 600px;
-  background-position: center;
-  background-size: cover;
-  color: #404040;
+  
 }
 footer {
   background-color: #000000;
