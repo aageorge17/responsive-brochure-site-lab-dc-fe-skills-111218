@@ -18,7 +18,8 @@ footer {
 .center {
   text-align: center;
 }
-
+footer{ 
+  clear: both;
 }
  .grid { 
    display: grid;
